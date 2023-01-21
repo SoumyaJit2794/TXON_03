@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container{
+    background-image:radial-gradient(#baa6e0,#6273e3);
+    background-size: cover;
+    height:100vh;
+    text-align: center;
+    padding: 40px;
+
+}
+#inputfield{
+    height:35px;
+    width:400px;
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(242, 255, 251);
+    border-width:0px;
+    border-radius: 8px;
+    padding:5px;
+}
+#add-todo{
+    color:#220a49;
+    background-color: #eb5ed8;
+    height:35px;
+    width:120px;
+    border-radius:10px;
+    margin:10px;
+    padding:5px;
+    font-weight: 700;
+    font-family: "Bree Serif";
+}
+h1{
+    font-size:28px;
+    color:#220a49;
+    padding-top: 30px;
+    font-family: "Bree Serif";
+    
+}
+.to-dos{
+    font-size:24px;
+    text-align: center;
+   
+    
+}
+.tasks-heading{
+    font-size:20px;
+    color:#220a49;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.paragraph-style{
+    margin:10px;
+    color:#220a49;
+    background-color:#ffffff;
+    border-style:solid;
+    border-color:black;
+    border-width: 1px;
+}
